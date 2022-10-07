@@ -64,18 +64,18 @@ body{
 .card-content .card--icon p{
     width: 100%;
     height: 100%;
-    background-image: url("/images/icon-sedans.svg");
+    background-image: url('images/icon-sedans.svg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: 50px;
 }
 
 .card-cyan .card--icon p{
-    background-image: url("/images/icon-suvs.svg");
+    background-image: url('images/icon-suvs.svg');
 }
 
 .card-darkcyan .card--icon p{
-    background-image: url("/images/icon-luxury.svg");
+    background-image: url('images/icon-luxury.svg');
 }
 
 .card-content .card--info{
